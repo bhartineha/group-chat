@@ -1,5 +1,4 @@
 # group-chat
-React Typescript - Web Chat Application 
 ===========================================
 
 This is a project simple chat apps without real chat application functionality. I have added a bit more functionality than having an open group chat. The project is built with React.js, Typescript, Firebase, Sass and ant design.
