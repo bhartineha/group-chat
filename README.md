@@ -11,3 +11,34 @@ You can sign in with your email or through google. In addition to the chat funct
 ## Getting Started
 The app can be installed by cloning the Git repository and running 'npm install' in the project directory.
 Once all packages are installed, you can run 'npm start' to run the app in http://localhost:3000/.
+
+## Rules
+ 1. Create Account -
+    a. Register with email and Password
+    b. Via google authentication
+
+ 2. Signin via email and Password
+
+ 3. Dashboard
+   Left SideBar 
+   Top Heading 
+      a. User Icon, name
+      b. Change Profile Image via upload image dialog box
+      c. Remove profile Image 
+      d. Signout
+
+   Two Tabs- 
+   1. Conversations  - 
+      a. New Conversation dialog - 
+      Add conversation participants
+      Create new group
+
+   2. Contacts - To start a conversation with a friend, add a contact using your friends account id. 
+    Example - Rahul - hd6YItkixvQWwowtPpxP4BhITQc2
+              Neha Bharti - jXSPzPXSXqYO2maRe0QMwa8oHbJ3
+            a. New Contacts - dialog box - Create a new contact with name and account id
+    It will add list of contacts
+   
+
+
+
